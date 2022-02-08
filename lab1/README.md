@@ -1,0 +1,3 @@
+First lab, third semester. ППвИС. [Full task description](description/task.md)
+
+A simple (potokashi | barley-break | "пятнашки") game structure implementation written in C++, following the best practices such as preparing thorough testing of the app, leaving documentation comments in the source code, defining constructors, overloading operators, etc. (you can check all the requirements). The game doesn't have the UI, only tests, though with exposed class methods it should be easy to implement the UI if required. Use at least C++11 standard to compile successfully.
